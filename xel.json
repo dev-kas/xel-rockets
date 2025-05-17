@@ -1,0 +1,11 @@
+{
+  "name": "rockets",
+  "description": "Display ASCII art of rockets",
+  "version": "0.1.0",
+  "xel": "^0.6.0",
+  "engine": "^2.1.0",
+  "main": "main.xel",
+  "deps": {},
+  "author": "KAS",
+  "license": "MIT"
+}
