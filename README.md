@@ -11,7 +11,7 @@ Display ASCII art of rockets
 ## Installation
 
 ```sh
-xel install https://github.com/dev-kas/xel-rockets
+xel pkg add https://github.com/dev-kas/xel-rockets
 ```
 
 ## Usage
